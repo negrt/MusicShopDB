@@ -1,3 +1,5 @@
+-- Create a view that shows information about order item products
+
 CREATE VIEW vOrderItemsProducts
 as
 SELECT 
