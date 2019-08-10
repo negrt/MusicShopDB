@@ -1,4 +1,4 @@
-# SQL-VariousStatements
+# MusicShopDB
 SQL statements I've created for a Music Shop. Includes view, trigger, function, stored procedures.
 
 # What I learned
