@@ -1,4 +1,4 @@
--- Create a function that return the discount price for a specified item
+-- Create a function that returns the discount price for a specified item
 
 CREATE FUNCTION fnDiscountPrice
 (
