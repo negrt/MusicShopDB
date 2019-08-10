@@ -2,7 +2,8 @@
 SQL statements I've created for a Music Shop.
 
 # What I learned
-* Create Views
-* Create Stored Procedures
-* Create Functions
-* Various built-in functions
+* How to create Views
+* How to create Procedures
+* How to create Functions
+* How to create Triggers
+* Built-in SQL functions
