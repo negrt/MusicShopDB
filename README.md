@@ -1,5 +1,5 @@
 # SQL-VariousStatements
-SQL statements I've created for a Music Shop.
+SQL statements I've created for a Music Shop. Includes view, trigger, function, stored procedures.
 
 # What I learned
 * How to create Views
